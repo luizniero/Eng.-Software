@@ -95,7 +95,24 @@ CAPÍTULO 2
                         As falhasde subsistemas que são consequência de suposições inválidas sobre outros subsistemas, geralmente, são reveladas durante
                         a integração de sistemas.
                 5) Instalação de sistemas
-                
-                
+                        Durante a instalação, o sistema é colocado no ambiente no qual deverá operar.
+                        Um novo sistema pode ter de coexistir com um sistema anterior, até que a organização esteja certa de que o novo
+                        sistema opera adequadamente.  Isso causará problemas específicos de instalação, se os sistemas não forem completamente
+                        independentes, mas compartilham alguns componentes.
+                6) Operação de sistemas
+                        Problemas não detectados podem surgir neste estágio, porque a especificação do sistema pode conter erros ou omissões.
+                7) Evolução de sistemas
+                        São para corrigir os erros nos requisitos do sistema original e para implantar novas versões.
+                        - Os subsistemas nunca são completamente independentes, as mudanças em um subsistema podem afetar adversamente o desempenho
+                        e o comportamento de outros subsistemas.  Por isso é importante a documentação, pra não dar o famoso "bug".
+                        - Os responsáveis pela evolução do sistema precisam entender por que foram tomadas determinadas decisões de projeto.
+                8) Desativação de sistemas
+                        significa tivar um sistema de serviço, após terminar seu tempo de vida útil operacional.  Se os dados no sistema que está
+                        sendo desativado devem ser mantidos pela organização, eles precisam ser convertidos para uso por outro sistema.  Isso pode,
+                        muitas vezes, envolver custos significaivos, pois a estrutura de dados pode etar implicitamente definida no próprio software.
         
+        Suprimento de sistemas
+                O processo de suprimento de sistemas envolve especificar o sistema, emitir um pedido de propostas, escolher um fornecedor
+                e então estabelecer um contrato para o sistema.  Em geral, algumas partes de grandes sistemas com base em computadores são
+                adquiridas como componentes de prateleira (COTS).
         
