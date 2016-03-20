@@ -53,3 +53,34 @@ CAPÍTULO 2
                 Sistemas grandes devem ser subdivididos em subsistemas, com atividades exclusívas. Modelamos utilizando o diagrama de blocos.
                 
                 
+        Na engenharia de um sistema, seguimos o seguinte processo:
+                1) Definição de Requisitos
+                2) Projeto do Sistema
+                3) Desenvolvimento de subsistema
+                4) Integração do sistema
+                5) Instalação do Sistema
+                6) Evolução do sistema
+                7) Desativação do sistema
+                
+                1) Definição de Requisitos
+                        - Requisitos funcionais Abstratos: A atividade de definição dos requisitos do sistema se destina a levantar os requisitos
+                        do sistema como um todo.  A especificação detalhada de requisitos funcionais ocorre no nível do subsistema.
+                        - Propriedades de sistemas: propriedades emergentes de sistemas não funcionais.
+                        - Características que o sistema não deve exibir: Ás vezes, é tão importante especificar o que o sistema não deve fazer
+                        quanto o que ele deve fazer.
+                        Definir por que o sistema está sendo obtido para um ambiente específico, de modo que fique claro o que o sistema deve, realmente, fazer.
+                        Também pode ocorrer de haver "problemas intrincados", que é tão complexo, que não existe uma especificação definitiva do problema.
+                        a verdadeira natureza do problema somente emerge á medida que uma solução é desenvolvida.
+                2) Projeto de Sistemas
+                        Se ocupa de como a funcionalidade de sistemas deve ser fornecida pelos diferentes componentes do sistema.
+                        - Agrupar os requisitos:  Sãoanalisados e reunidos em grupos relacionados
+                        - Identificar subsistemas:  são identificados os subsistemas que devem atender aos requisitos.
+                        - Atribuir requisitos a subsistemas:  Deve ser direto, se o agrupamento dos req. for utilizado para orientar a identificação
+                        dos subsistemas.
+                        - Especificar a funcionalidade de subsistema:  As funções que cada subsistema irá fazer.  Os relacionamentos entre os subsistemas
+                        devem também ser identificados nesse estágio.
+                        - Definir as interfaces de subsistemas: Uma vez que tenham sido especificadas, torna-se possível o desenvolvimento paralelo
+                        de subsistemas.
+        
+        
+        
