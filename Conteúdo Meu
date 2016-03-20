@@ -81,6 +81,21 @@ CAPÍTULO 2
                         devem também ser identificados nesse estágio.
                         - Definir as interfaces de subsistemas: Uma vez que tenham sido especificadas, torna-se possível o desenvolvimento paralelo
                         de subsistemas.
-        
+                3) Desenvolvimento de subsistemas
+                        - Cada subsistema é um sistema de software, e seus relacionamentos foram definidos no projeto.  Cabe aplicar técnicas de
+                        engenharia em cada um destes softwares.  Alguns subsistemas são comerciais, que são adquiridos para a integração.  Muitas
+                        vezes, vale a pena adquirir produtos de prateleira (COTS) para a integração de subsistemas, pois é menos custoso que desenvolver
+                        um do zero (não reinvente a roda).
+                        - Diferentes subsistemas são, geralmente, desenvolvidos em paralelo.
+                4) Integração de sistemas
+                        Envolve adotar os subsistemas desenvolvidos independentemente e agraupá-los, para que formem um sistema completo.
+                        O processo de integração em fases é a abordagem mais apropriada por duas razões:
+                                - Velocidade na entrega de todos os subsistemas
+                                - Reduz os custos de localizaçãoi de erros.
+                        As falhasde subsistemas que são consequência de suposições inválidas sobre outros subsistemas, geralmente, são reveladas durante
+                        a integração de sistemas.
+                5) Instalação de sistemas
+                
+                
         
         
