@@ -39,3 +39,17 @@ CAPÍTULO 2
                 1) Confiabilidade do hardware;
                 2) Confiabilidade do Software;
                 3) Confiabilidade do Operador.
+
+        Sistemas e seu ambiente:
+                Dentre os fatores humanos e organizacionais provenientes do ambiente do sistema, que afetam o projeto do sistema, destacam-se:
+                1) Mudanças no processo:  O sistema requer mudanças nos processos de trabalho, no ambiente?  Se isso acontecer, certamente
+                será exigido treinamento específico.  Se as muançdas foram significativas ou envolverem pessoas que percam seus empregos, 
+                existe o perigo de os usuários resistirem ao sistema;
+                2) Mudanças nas tarefas:  Os sistemas diminuiem a habilidade dos usuários ou faz com que eles modifiquem o modo com que trabalham?
+                3) Mudanças organizacionais:  O sistema modifica a estrutura do poder político em uma organização?
+                à medida em que um engenheiro de sistemas pega experiência, passa a compreender e prever melhor os riscos nesses ambientes.
+                
+        MOdelagem de Sistemas:
+                Sistemas grandes devem ser subdivididos em subsistemas, com atividades exclusívas. Modelamos utilizando o diagrama de blocos.
+                
+                
