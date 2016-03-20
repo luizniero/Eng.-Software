@@ -1,5 +1,8 @@
 # Eng.-Software
 
+
+CAPÍTULO 1
+==========================================================================================================================================
         Responsabilidade profissional e ética:
     Um engenheiro de software precisa ter responsabilidade profissional, para não desmerecer a profissão.  Assim como demais
 áreas da engenharia, é preciso dosar sua moral e seu caráter.  além disso, também precisa da responsabilidade ética, uma vez,
@@ -8,7 +11,6 @@ programa sem ter realizado os testes, por ordem do seu empregador.  É necessár
 riscos que isso pode causar, ao empregador, ao contratante, à sociedade e ao próprio profissional, que pode ficar com o nome
 queimado ou perder o emprego.
 
-
         Algumas definições:
     - Os produtos de software consistem de programas desenvolvidos e da documentação associada.  Os atributos essenciais do produto
 são a facilidade de manutenção, a confiança, a eficiência e a facilidade de uso.
@@ -16,3 +18,24 @@ são a facilidade de manutenção, a confiança, a eficiência e a facilidade de
     - Métodos são meios organizados de produzir software.  Eles incluem sugestões sobre o processo a ser seguido, as notações
 a serem utilizadas, as regras que regem as descrições de sistema produzidas e as diretrizes do projeto.
     - As ferramentas case são sistemas de software projetados para dar apoio ás atividades de rotina no processo de software.
+
+CAPÍTULO 2
+==========================================================================================================================================
+        Sistema:  é a coleção significativa de componentes inter-relacionados, que trabalham em conjunto para atingir algum objetivo.
+        Propriedades Emergentes dos Sistemas:
+                - O peso total do sistema:  é uma propriedade emergente, qaue pode ser computada a partir das propriedades de componentes
+        individuais.
+                - A confiabilidade do sistema: Depende da confiabilidade dos componentes do sistema e do relacionamento entre eles
+                - A facilidade de uso de um sistema: depende do hardware, do software e dos operadores do sistema, e do ambiente em qu
+        ele será utilizado.
+        
+        
+        Há dois tipos de propriedades emergentes:
+                - Propriedades funcionais:  aparecem qdo todas as partes de um sistema trabalham em conjunto para atingir algum objetivo.
+                - Propriedades não funcionais: como confiabilidade, desempenho, segurança e proteção.  Se relacionam com o comportamento
+        do sistema em seu ambiente operacional.
+        
+        Confiabilidade do sistema:  Existem três influ~encias estreitamente relacionadas à confiabilidade global do sistema:
+                1) Confiabilidade do hardware;
+                2) Confiabilidade do Software;
+                3) Confiabilidade do Operador.
